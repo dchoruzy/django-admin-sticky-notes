@@ -1,0 +1,4 @@
+*.pyc
+.DS_Store
+django_admin_sticky_notes.egg-info/*
+dist/*

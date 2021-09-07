@@ -1,4 +1,4 @@
-# django_admin_sticky_notes
+# django-admin-sticky-notes
 
 Share notes between superusers.
 

@@ -11,9 +11,9 @@ setuptools.setup(
     description="Django admin sticky notes",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/dchoruzy/django_admin_sticky_notes",
+    url="https://github.com/dchoruzy/django-admin-sticky-notes",
     project_urls={
-        "Bug Tracker": "https://github.com/dchoruzy/django_admin_sticky_notes/issues",
+        "Bug Tracker": "https://github.com/dchoruzy/django-admin-sticky-notes/issues",
     },
     license='MIT License',
     classifiers=[

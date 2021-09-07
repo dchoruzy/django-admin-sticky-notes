@@ -24,6 +24,6 @@ Then in your django site urls.py add the following:
     
     urlpatterns = [
         ...
-        path("", StickyNoteView.as_view()),
+        path('sticky-note', include("django_admin_sticky_notes.urls")),
         ...
     ]
